@@ -9,5 +9,5 @@ This repository contains the following code:
 
 4)Code used to show example of simple perceptron model.(perceptron_tech.py)
 
-<h1>Future:</h1>
+<h1>Future Work:</h1>
 This repository will be updated as soon as I do new basic codes.
