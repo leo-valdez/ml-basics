@@ -7,10 +7,10 @@ This repository contains the following code:
 2) Code based on speech recognation to recognize speech and open application firefox in this particular code(textspeech.py
   
        This can be used to make your own working jarvis by:
-       1) Making list variable for storing application and other functionality keywords(like in this case 'Firefox') 
-       2) Taking speech as an input
-       3) Convering it into text
-       4) Mapping values of text and list variable 
+       1) Making list variable for storing application and other functionality keywords(like in this case 'Firefox') .
+       2) Taking speech as an input.
+       3) Converting it into text.
+       4) Mapping values of text and list variable. 
        5) If matched perform the specific function.
        6) You can convert this into a batch file and run this code in backend by connecting it to any start up application of your PC.
        7) Make a keyword particular to allow the code to run(like in case of siri or cortana others we say 'hi','okay',etc.) and stop after   
